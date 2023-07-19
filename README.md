@@ -1,9 +1,11 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+![github-header-image](https://github.com/Dzalhaqi/dzalhaqi/assets/52716202/4934493c-f31b-4106-b853-7e16692358ad)
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="left">
+  <ul align="center">
     <summary><h1 style="display: inline-block">Hi everyone, I'm Applied Data Science Student that really love to build Full Stack Web and Machine Learning Project 👋 </h1></summary>
   </ul>
 </div>
@@ -19,11 +21,10 @@
 ## About me
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 - :school: I am a Student at [Electronic Engineering Polytechnic Institute of Surabaya](https://pens.ac.id) in [Applied Data Science Major](https://sainsdata.pens.ac.id)
-- :technologist: **Currently working on** `Full Stack Development` **&** `Data Science`
+- :technologist: **Currently working on** `Full Stack Web Development` **&** `Data Science`
 <!-- - :boom: You can visit [MY WEBSITE](https://) for some frontend knowledge -->
 - :nerd_face: Always believe `"You are what you loved"`
 
-<br>
 
 ## 🛠️ My Skills
 ### Programming languages
