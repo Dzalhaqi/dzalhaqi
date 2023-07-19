@@ -1,7 +1,9 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![github-header-image (1)](https://github.com/Dzalhaqi/dzalhaqi/assets/52716202/3939fe02-1e60-4234-a8b8-0de48fe8d1bc)
+<div align="center">
+  <img src="https://github.com/Dzalhaqi/dzalhaqi/assets/52716202/3939fe02-1e60-4234-a8b8-0de48fe8d1bc">
+</div>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
