@@ -8,7 +8,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi everyone, I'm Applied Data Science Student that really love to build Full Stack Web and Machine Learning Project </h1></summary>
+    <summary><h1 style="display: inline-block">Hi everyone, I'm Muhammad Dzalhaqi that currently enrolled Applied Data Science degree and really love to build Full Stack Web and Machine Learning Project </h1></summary>
   </ul>
 </div>
 
