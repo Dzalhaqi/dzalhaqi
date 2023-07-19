@@ -112,9 +112,9 @@
 
 ## Github Stats
 <!--- stats & Trophy (start) -->
-<p align="left">
+<p align="center">
   <!--- stats (start) -->
-<table align="left">
+<table align="center">
 <tr border="none">
 <td width="50%" align="center">
   <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=dzalhaqi&theme=dark&show_icons=true&count_private=true" />
