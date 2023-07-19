@@ -8,9 +8,11 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi everyone, I'm Applied Data Science Student that really love to build Full Stack Web and Machine Learning Project 👋 </h1></summary>
+    <summary><h1 style="display: inline-block">Hi everyone, I'm Applied Data Science Student that really love to build Full Stack Web and Machine Learning Project </h1></summary>
   </ul>
 </div>
+
+<br>
 
 ## Connect with me
 <div id="badges">
@@ -18,6 +20,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+<br>
 
 <!--About Me-->
 ## About me
@@ -27,6 +31,7 @@
 <!-- - :boom: You can visit [MY WEBSITE](https://) for some frontend knowledge -->
 - :nerd_face: Always believe `"You are what you loved"`
 
+<br>
 
 ## 🛠️ My Skills
 ### Programming languages
@@ -123,7 +128,7 @@
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
-<div align=left>
+<div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=dzalhaqi&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
