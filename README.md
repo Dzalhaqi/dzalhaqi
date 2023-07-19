@@ -19,16 +19,20 @@
   <a href="https://linkedin.com/in/muhammad-dzalhaqi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://medium.com/@dzalhaqi/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
 </div>
 
 <br>
 
 <!--About Me-->
-## About me
+## About me 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
-- :school: I am a Student at [Electronic Engineering Polytechnic Institute of Surabaya](https://pens.ac.id) in [Applied Data Science Major](https://sainsdata.pens.ac.id)
+
+- :school: I am a 3rd year student at [Electronic Engineering Polytechnic Institute of Surabaya](https://pens.ac.id) in [Applied Data Science Major](https://sainsdata.pens.ac.id)
 - :technologist: **Currently working on** `Full Stack Web Development` **&** `Data Science`
-<!-- - :boom: You can visit [MY WEBSITE](https://) for some frontend knowledge -->
+<!-- - :boom: You can visit [MY WEBSITE](https://) for some knowledge -->
 - :nerd_face: Always believe `"You are what you loved"`
 
 <br>
